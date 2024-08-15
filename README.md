@@ -1,3 +1,3 @@
 # mlgj
 
-new 2 3 5
+new 2 3 5 6
